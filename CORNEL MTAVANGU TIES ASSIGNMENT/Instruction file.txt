@@ -1,0 +1,25 @@
+BACKEND DJANGO:
+-Required modules:
+	>pip install django
+	>pip install pillow
+	>pip install djangorestframework
+	>pip install django-cors-headers
+-Running:
+	>open to path ./BACKEND DJANGO-PYTHON/project/
+	>create virtual environment
+	>open cmd and run:
+	>create virtual environment
+		-pip install virtualenvwrapper-win
+		-mkvirtualenv any_name
+		-workon any_name
+	>python mnage.py runserver
+
+FRONDEND REACT JS:
+-Required modele
+	>npm install react-router-dom
+	>npm i bootstrap-icons
+	>npm install react-bootstrap bootstrap
+-Running:
+	>open to path .\FRONTEND RECT JS\my-react-app
+	>open cmd and run:
+	>npm start
